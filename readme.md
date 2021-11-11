@@ -23,7 +23,8 @@ https://nisnom.com/
 ### Leaflet.js for Maps
 https://leafletjs.com/
 
-### D3.js is a JavaScript library for manipulating documents based on data. Using HTML, SVG, and CSS.
+### D3.js is a JavaScript library for manipulating documents based on data.
+#### Using HTML, SVG, and CSS.
 https://d3js.org/
 
 ### Three.js library for Graphics !!!
