@@ -1,10 +1,17 @@
+### Free API
++ public-apis    https://github.com/public-apis/public-apis
++ Ice And Fire   https://anapioficeandfire.com/
++ Pokemon API	 https://pokeapi.co/
++ Marvel API	 https://developer.marvel.com/
++ Weather API	 https://openweathermap.org/api
++ News API	     https://newsapi.org/
+
+____
 
 ### Owl Carousel 2
 https://owlcarousel2.github.io/OwlCarousel2/
-
 ### Slick Slider, JQ
 https://kenwheeler.github.io/slick/
-
 ### tiny-slider , JS
 https://github.com/ganlanyuan/tiny-slider
 
@@ -44,7 +51,7 @@ https://highlightjs.org/
 ### The ultimate JavaScript string library
 https://vocajs.com/
 
-### readne.md
+### readme.md
 https://github.com/GnuriaN/format-README
 
 ### EMOJI
