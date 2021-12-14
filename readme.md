@@ -7,6 +7,10 @@
 + News API	     https://newsapi.org/
 
 ____
+### Errors, Spinner
++ https://loading.io/
++ https://icons8.com/
+____
 
 ### Owl Carousel 2
 https://owlcarousel2.github.io/OwlCarousel2/
