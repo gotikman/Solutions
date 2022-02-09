@@ -24,7 +24,7 @@ ____
 + Fotorama https://fotorama.io/
 ____
 ### 4 Touch, Mobile
-+library Hamer https://hammerjs.github.io/
++ library Hamer https://hammerjs.github.io/
 ____
 ### Сборник HTML, CSS, JavaScript/jQuery компонентов
 + https://nisnom.com/
