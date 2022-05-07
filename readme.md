@@ -1,3 +1,17 @@
+### React
+## React useful libraries
++ [concurrently](https://www.npmjs.com/package/concurrently) --> запуск кількох команд однією командою в терміналі
++ [classnames](https://www.npmjs.com/package/classnames) --> полегшує роботу з класами
++ [react-id-gen]  --> генерує вибадковий ID, для списків в React
++ [uuid](https://www.npmjs.com/package/uuid) --> генерує вибадковий ID, для списків в React
+
+## React Top
++ [Топ-13 библиотек компонентов React](https://techrocks.ru/2020/01/18/13-top-react-component-libraries/)
++ [Top 10 React Hook libraries](https://www.bornfight.com/blog/top-10-react-hook-libraries/)
++ [8 потужних бібліотек React](https://proglib.io/p/8-moshchnyh-bibliotek-react-kotorye-stoit-poprobovat-v-2021-godu-2021-01-15)
++ [5 useful React hooks](https://habr.com/ru/company/ruvds/blog/554280/)
+
+____
 ### Free API
 + public-apis    https://github.com/public-apis/public-apis
 + Ice And Fire   https://anapioficeandfire.com/
